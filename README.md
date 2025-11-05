@@ -36,7 +36,7 @@ Modern SLAM uses LIDAR, GPS, and laser-based point clouds for fast outdoor navig
 ---
 
 ## 3. 🔗 Project Repository
-Access the full code [here](#\code).
+Access the full code [here](#code).
 
 ---
 
