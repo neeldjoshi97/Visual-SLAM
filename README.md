@@ -36,7 +36,7 @@ Modern SLAM uses LIDAR, GPS, and laser-based point clouds for fast outdoor navig
 ---
 
 ## 3. 🔗 Project Repository
-Access the full code [here](#code).
+Access the full code [here](#/code).
 
 ---
 
@@ -53,7 +53,7 @@ This benchmark dataset includes:
 Visual tools were used to analyze and interpret trajectory and depth predictions.
 
 <figure>
-    <img src="images/depth_maps.png">
+    <img src="Images/depth_maps.png">
     <figcaption>
     Figure 1: Collage showing sample images (left) and co-responding depth maps (right)
     </figcaption>
@@ -74,14 +74,14 @@ Based on Droid-SLAM [3], the following modifications were made:
 ## 6. Results & Significance
 
 <figure>
-    <img src="images/model_arch.png">
+    <img src="Images/model_arch.png">
     <figcaption>
     Figure 2: Suggested architecture
     </figcaption>
 </figure>
 
 <figure>
-    <img src="images/results.png">
+    <img src="Images/results.png">
     <figcaption>
     Figure 3: Results with different types of estimation networks
     </figcaption>
